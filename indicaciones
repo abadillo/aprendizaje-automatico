@@ -1,0 +1,22 @@
+Indicaciones para el proyecto
+
+En cada problema, usted debe considerar los siguientes puntos:
+
+    1- Generar el conjunto de prueba. El conjunto de prueba se debe generar al comienzo y no volver a consultar hasta después de entonar el mejor modelo. Se debe tomar una muestra estratificada del conjunto de datos.
+    2- Explorar los datos para obtener ideas. Usted debe ver las tendencias de los datos, distribución de los atributos, escala y rango de valores de cada característica, correlaciones, entre otros.
+    3- Preparar los datos para exponer mejor los patrones de datos subyacentes a los algoritmos de aprendizaje automático. Manejar los atributos que tienen categorías, hacer feature engineering, crear atributos combinados de ser necesario, manejar los atributos faltantes.
+    4- Explorar muchos modelos diferentes y preseleccionar los mejores. Debe usar validación cruzada para evaluar los modelos. Debe reportar el resultado de al menos tres modelos distintos y justificar su selección del mejor o de los mejores modelos.
+    5- Afinar los modelos. Entonar los hiperparámetros usando grid search o random search.
+    6- Presentar la solución. ¿Cuál es el mejor modelo? ¿Cómo se desempeña? ¿Puede mejorarse el desempeño? ¿Qué sería necesario hacer para mejorarlo?
+
+Informe
+
+Usted debe entregar un informe donde desarrolle los puntos anteriores. Debe incluir gráficas en cada sección cuando sea necesario para visualizar la distribución de los datos, correlaciones, tendencias, curvas de aprendizaje, entre otros. Debe incluir tablas numéricas cuando sea necesario para ver el desempeño, estadísticas, intervalos de confianza, entre otros.
+Código
+
+Usted debe entregar también la totalidad del código que utilizó para preparar los datos y el conjunto de prueba, entrenar los modelos, evaluar los modelos, entonar los modelos, generar las gráficas, entre otros.
+Entrega
+
+Usted debe entregar su proyecto por Módulo 7 a más tardar el miércoles 8 de junio a las 23:59. Suba tanto el informe como el código. En caso de subir un archivo comprimido, utilice el formato ZIP o tar.gz. No use archivos RAR.
+
+Debe entregar además el informe impreso, lo cual podrá hacer en la clase del lunes 13 de junio, o bien dejarlo en el casillero del profesor (escuela de Informática) hasta el lunes 13 de junio inclusive.
